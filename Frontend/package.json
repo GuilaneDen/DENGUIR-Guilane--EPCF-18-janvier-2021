@@ -1,0 +1,15 @@
+{
+  "name": "people-stat",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "watch": "parcel watch index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
